@@ -1,0 +1,12 @@
+C:\Users\larry\Dropbox\aviation\FileProcessing\bin\Debug\netcoreapp3.1\FileProcessing.deps.json
+C:\Users\larry\Dropbox\aviation\FileProcessing\bin\Debug\netcoreapp3.1\FileProcessing.dll
+C:\Users\larry\Dropbox\aviation\FileProcessing\bin\Debug\netcoreapp3.1\FileProcessing.pdb
+C:\Users\larry\Dropbox\aviation\FileProcessing\bin\Debug\netcoreapp3.1\spatial.dll
+C:\Users\larry\Dropbox\aviation\FileProcessing\bin\Debug\netcoreapp3.1\spatial.pdb
+C:\Users\larry\Dropbox\aviation\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.csprojAssemblyReference.cache
+C:\Users\larry\Dropbox\aviation\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.csproj.CoreCompileInputs.cache
+C:\Users\larry\Dropbox\aviation\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.AssemblyInfoInputs.cache
+C:\Users\larry\Dropbox\aviation\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.AssemblyInfo.cs
+C:\Users\larry\Dropbox\aviation\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.csproj.CopyComplete
+C:\Users\larry\Dropbox\aviation\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.dll
+C:\Users\larry\Dropbox\aviation\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.pdb

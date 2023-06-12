@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FileProcessing/1.0.0": {
+        "dependencies": {
+          "spatial": "1.0.0"
+        },
+        "runtime": {
+          "FileProcessing.dll": {}
+        }
+      },
+      "spatial/1.0.0": {
+        "runtime": {
+          "spatial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "spatial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
